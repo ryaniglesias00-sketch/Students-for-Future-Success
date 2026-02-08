@@ -1,0 +1,23 @@
+/* Styles for Students for Future Success */
+
+body {
+    background-color: white;
+    color: green;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    color: gold;
+}
+
+button {
+    background-color: gold;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: green;
+}
